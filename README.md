@@ -1,5 +1,5 @@
 # Responsive-Calendar
-## Hlo Everyone
+## Hello Everyone
 I am Aryan Chauhan CSE 2 year CSE Student pursuing My B.Tech. I have created the Calendar using HTML, CSS, Javascript. 
 It will help you to see all days and can also mark your special days that are important for you according to your requirement
 I hope you will like it.
